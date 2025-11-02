@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as React JS and React Native Developer<br>👯 I’m looking to collaborate on React OSS projects<br>🤝 I’m looking for help with React and JavaScript<br>🌱 I’m currently learning DSA in JavaScript and React Native <br>💬 Ask me about Technology, React, JavaScript <br>⚡ Looking for developer roles in React js  <br>
+🔭 I’m currently working as Software Developer working with React, Node js, Experess JS, Mongodb, MySql<br>👯 I’m looking to collaborate on React OSS projects<br>🤝 I’m looking for help with React and JavaScript<br>🌱 I’m currently learning DSA in JavaScript and React Native <br>💬 Ask me about Technology, React, JavaScript <br>⚡ Looking for developer roles in React js  <br>
 
 
 ## 🌐 Socials:
