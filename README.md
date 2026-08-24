@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kiranrega&style=plastic&color=0077B5" alt="Profile Views"/>
 </p>
 
@@ -315,4 +315,13 @@ I'm actively looking to collaborate on:
 
 <div align="center">
   <sub>Built with ❤️ by Kiran Kumar Rega</sub>
-</div>
+</div> -->
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="kiranrega's GitHub profile" src="dark_mode.svg" />
+</picture>
+
+
